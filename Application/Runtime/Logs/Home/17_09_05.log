@@ -1,0 +1,585 @@
+[ 2017-09-05T16:39:01+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0030s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.042201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.042201s ]
+
+[ 2017-09-05T16:50:46+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2017-09-05T16:56:53+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T16:57:46+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T16:58:52+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T16:59:27+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T17:00:10+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T17:04:58+08:00 ] ::1 /shop/Home/goods
+ERR: 参数错误或者未定义:id
+
+[ 2017-09-05T17:05:05+08:00 ] ::1 /shop/Home/goods/id/38
+ERR: 非法操作:id
+
+[ 2017-09-05T17:06:25+08:00 ] ::1 /shop/index.php/Home/Goods/getgoodsnum/gid/38/gaid/190,200
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_product` [ RunTime:0.0156s ]
+SQL: SELECT `goods_number` FROM `sp_product` WHERE `goods_id` = 38 AND `goods_attr` = '190,200' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T17:26:40+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T17:27:06+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T17:27:10+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T17:27:48+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0040s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-05T17:57:54+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0040s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-05T18:24:14+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T18:24:55+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0010s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T18:32:01+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T18:34:05+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T18:39:54+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0226s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0060s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-05T18:44:45+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T18:45:17+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T18:58:11+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2017-09-05T18:58:37+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T18:59:13+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0030s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T18:59:45+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T19:00:30+08:00 ] ::1 /shop/index.php/Home/Goods/getgoodsnum/gid/38/gaid/190,200
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sp_product` [ RunTime:0.0000s ]
+SQL: SELECT `goods_number` FROM `sp_product` WHERE `goods_id` = 38 AND `goods_attr` = '190,200' LIMIT 1   [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T19:19:21+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0186s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0070s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-05T19:20:27+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0226s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T19:20:47+08:00 ] ::1 /shop/index.php/Home/Goods/getgoodsnum/gid/38/gaid/186,190
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0040s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `sp_product` [ RunTime:0.0040s ]
+SQL: SELECT `goods_number` FROM `sp_product` WHERE `goods_id` = 38 AND `goods_attr` = '186,190' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T19:23:38+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0186s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-05T19:37:35+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

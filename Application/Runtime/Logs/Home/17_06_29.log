@@ -1,0 +1,50 @@
+[ 2017-06-29T18:30:20+08:00 ] ::1 /shop/
+ERR: SQLSTATE[HY000] [1049] Unknown database 'shop'
+
+[ 2017-06-29T18:32:14+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0080s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-29T18:32:18+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-06-29T18:32:19+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-06-29T18:32:21+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-06-29T18:32:22+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0100s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
