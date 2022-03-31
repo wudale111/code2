@@ -1,0 +1,1098 @@
+[ 2017-09-19T13:45:32+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T13:46:59+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:47:00+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:47:01+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:47:04+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:47:05+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T13:48:23+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:48:24+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:48:26+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:48:27+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:48:29+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0236s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0090s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-19T13:48:30+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:48:52+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:48:53+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:48:54+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:48:57+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T13:49:10+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:49:11+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:49:12+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:49:13+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:49:14+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:49:15+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T13:49:42+08:00 ] ::1 /shop/index.php/Home/index/style/hm.js
+ERR: 非法操作:style
+
+[ 2017-09-19T13:49:43+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T13:49:44+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T13:49:45+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:49:46+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:49:48+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0070s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-19T13:51:05+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:51:06+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:51:07+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:51:09+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:51:10+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T13:51:11+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:51:13+08:00 ] ::1 /shop/index.php/Home/User/mbmeilishuo/user.php?act=register
+ERR: 非法操作:mbmeilishuo
+
+[ 2017-09-19T13:51:18+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:51:19+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:51:21+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:51:22+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:51:23+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0060s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T13:51:24+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:51:31+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T13:51:32+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:51:34+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T13:51:35+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T13:51:36+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:03:40+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:03:43+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:03:44+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:03:45+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:03:46+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:04:17+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:04:18+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:04:19+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:04:20+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:04:21+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:04:23+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:04:41+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:04:42+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:04:43+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:04:45+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:04:46+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:05:05+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:05:06+08:00 ] ::1 /shop/index.php/home/user/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:05:09+08:00 ] ::1 /shop/index.php/home/user/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:05:10+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0196s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:05:11+08:00 ] ::1 /shop/index.php/home/user/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:05:38+08:00 ] ::1 /shop/index.php/Home/index/style/hm.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:05:40+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:05:41+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:05:42+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:05:43+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:05:44+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:05:45+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:05:47+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:05:50+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0080s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-19T14:06:31+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:06:32+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:06:34+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:06:35+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:06:37+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:06:38+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0166s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:07:01+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:07:02+08:00 ] ::1 /shop/index.php/Home/index/style/hm.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:07:03+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:07:04+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:07:05+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:07:06+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:07:08+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:07:10+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:07:11+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:07:13+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-19T14:11:31+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:11:32+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:11:33+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:11:35+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:11:36+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:11:45+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:11:46+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:11:47+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:11:49+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0206s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-19T14:11:50+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:16:17+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:16:19+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:16:20+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:16:21+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:16:22+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:16:23+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:16:46+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:16:47+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:16:48+08:00 ] ::1 /shop/index.php/Home/index/style/hm.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:16:49+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:16:50+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:16:51+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:16:52+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:16:55+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:16:56+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:16:58+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0050s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:18:58+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:19:00+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:19:01+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:19:02+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0080s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-19T14:19:03+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:19:21+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:19:22+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:19:23+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:19:25+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0186s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:19:26+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:20:01+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:20:02+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:20:03+08:00 ] ::1 /shop/index.php/Home/index/style/hm.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:20:04+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:20:06+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:20:07+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:20:08+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:20:10+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:20:11+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:20:14+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0080s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-19T14:27:04+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:27:05+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:27:06+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:27:07+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:27:08+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0040s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:27:10+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:27:26+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:27:27+08:00 ] ::1 /shop/index.php/Home/index/style/hm.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:27:28+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:27:29+08:00 ] ::1 /shop/index.php/Home/index/style/common.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:27:31+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:27:32+08:00 ] ::1 /shop/index.php/Home/index/style/index.js
+ERR: 非法操作:style
+
+[ 2017-09-19T14:27:33+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:27:35+08:00 ] ::1 /shop/index.php/Home/index/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:27:36+08:00 ] ::1 /shop/index.php/Home/index/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:27:38+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0060s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-19T14:28:24+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:28:31+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:28:32+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:28:34+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:28:35+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:28:36+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0030s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:28:38+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:29:44+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:29:46+08:00 ] ::1 /shop/index.php/Home/User/list_files/transport.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:29:47+08:00 ] ::1 /shop/index.php/Home/User/list_files/utils.js
+ERR: 非法操作:list_files
+
+[ 2017-09-19T14:29:48+08:00 ] ::1 /shop/index.php/Home/User/style/qq.css
+ERR: 非法操作:style
+
+[ 2017-09-19T14:29:49+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0186s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-19T14:29:51+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:30:10+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0246s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:31:47+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:32:38+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:32:52+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0000s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:33:05+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0070s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-19T14:33:17+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0156s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-19T14:33:51+08:00 ] ::1 /shop/index.php/home/user/checklogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `sp_category` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `sp_category` WHERE `type` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_article` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 5  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 6  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `sp_article` WHERE `cateid` = 7  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `sp_nav` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `sp_nav`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_config` [ RunTime:0.0080s ]
+SQL: SELECT `enname`,`value` FROM `sp_config`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
